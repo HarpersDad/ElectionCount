@@ -1,0 +1,13 @@
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\bin\Debug\PrimaryElectionTest.exe
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\bin\Debug\PrimaryElectionTest.pdb
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\bin\Debug\PrimaryElectionTest.xml
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.vbproj.GenerateResource.Cache
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.exe
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.xml
+C:\Users\clifton.lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.pdb
+C:\Users\clifton lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.exe
+C:\Users\clifton lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.xml
+C:\Users\clifton lindsey\Documents\Visual Studio 2005\Projects\PrimaryElectionTest\PrimaryElectionTest\obj\Debug\PrimaryElectionTest.pdb
